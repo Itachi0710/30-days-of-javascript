@@ -4,7 +4,7 @@ let lastName = 'Shrivastava' // last name of a person
 let country = 'India' // country
 let city = 'Mumbai' // capital city
 let age = 19 // age in years
-let isMarried = falsw
+let isMarried = false
 
 // Declaring variables with number values
 const gravity = 9.81 // earth gravity  in m/s2
